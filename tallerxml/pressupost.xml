@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pressupostos>
+  <pressupost id="1">
+    <component tipus="placa base">
+      <nom>ASUS ROG Strix Z590-A</nom>
+      <preu moneda="EUR">249.99</preu>
+    </component>
+    <component tipus="processador">
+      <nom>Intel Core i7-11700K</nom>
+      <preu moneda="EUR">399.99</preu>
+    </component>
+    <component tipus="memoria RAM">
+      <nom>Corsair Vengeance LPX 16GB (2x8GB) DDR4</nom>
+      <preu moneda="EUR">89.99</preu>
+    </component>
+    <component tipus="disc dur">
+      <nom>Samsung 970 EVO 1TB SSD</nom>
+      <preu moneda="EUR">109.99</preu>
+    </component>
+    <component tipus="targeta gràfica">
+      <nom>NVIDIA GeForce RTX 3060</nom>
+      <preu moneda="EUR">599.99</preu>
+    </component>
+    <component tipus="targeta de so">
+      <nom>Creative Sound BlasterX AE-5</nom>
+      <preu moneda="EUR">129.99</preu>
+    </component>
+    <total moneda="EUR">1579.94</total>
+  </pressupost>
+
+  <pressupost id="2">
+    <component tipus="placa base">
+      <nom>MSI MPG Z490 GAMING EDGE WIFI</nom>
+      <preu moneda="EUR">179.99</preu>
+    </component>
+    <component tipus="processador">
+      <nom>Intel Core i5-10600K</nom>
+      <preu moneda="EUR">269.99</preu>
+    </component>
+    <component tipus="memoria RAM">
+      <nom>G.Skill Ripjaws V 16GB (2x8GB) DDR4</nom>
+      <preu moneda="EUR">74.99</preu>
+    </component>
+    <component tipus="disc dur">
+      <nom>WD Blue 1TB HDD</nom>
+      <preu moneda="EUR">44.99</preu>
+    </component>
+    <component tipus="targeta gràfica">
+      <nom>MSI GeForce GTX 1660 Super</nom>
+      <preu moneda="EUR">229.99</preu>
+    </component>
+    <component tipus="targeta de so">
+      <nom>Realtek ALC1220</nom>
+      <preu moneda="EUR">49.99</preu>
+    </component>
+    <total moneda="EUR">849.94</total>
+  </pressupost>
+</pressupostos>
+
